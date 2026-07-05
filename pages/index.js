@@ -27,7 +27,7 @@ export default function LooslinPortfolio() {
       color: 'from-orange-500 to-red-500',
     },
   ];
-
+// Updated video support
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 text-white overflow-hidden">
       <div className="fixed inset-0 pointer-events-none">
