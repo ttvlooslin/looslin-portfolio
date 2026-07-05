@@ -52,7 +52,7 @@ export default function LooslinPortfolio() {
         <section id="home" className="max-w-6xl mx-auto px-6 py-24 sm:py-32 text-center">
           <div className="space-y-8">
             <div className="flex justify-center mb-8">
-              <img src="/images/prof-pic.jpg" alt="Looslin" className="w-48 h-48 sm:w-64 sm:h-64 rounded-full border-4 border-blue-500 object-cover shadow-2xl hover:scale-105 transition-transform duration-500" />
+              <img src="/images/prof-pic.png" alt="Looslin" className="w-48 h-48 sm:w-64 sm:h-64 rounded-full border-4 border-blue-500 object-cover shadow-2xl hover:scale-105 transition-transform duration-500" />
             </div>
             <h2 className="text-6xl sm:text-7xl font-black leading-tight">
               <span className="bg-gradient-to-r from-blue-400 via-red-400 to-cyan-400 bg-clip-text text-transparent">LOOSLIN</span>
